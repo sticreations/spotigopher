@@ -1,11 +1,11 @@
-#Spotigopher
+# Spotigopher
 ===
-##Overview
+## Overview
 
 Spotigopher is a Spotify API written based on the dbus.
 It is right now tested on Linux.
 
-##Usage
+## Usage
 
 ```
 import "github.com/sticreations/spotigopher/spotigopher"
