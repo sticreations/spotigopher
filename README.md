@@ -1,5 +1,5 @@
-Spotigopher
-
+#Spotigopher
+===
 ##Overview
 
 Spotigopher is a Spotify API written based on the dbus.
